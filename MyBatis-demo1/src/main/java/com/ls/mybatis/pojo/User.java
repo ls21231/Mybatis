@@ -20,6 +20,7 @@ public class User {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello");
+        System.out.println("test");
     }
     public User(Integer id, String username, String password, Integer age, String sex, String email) {
         this.id = id;
