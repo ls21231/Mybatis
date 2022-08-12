@@ -18,6 +18,7 @@ public class User {
     public void test() {
         System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println("hello world");
     }
     public User(Integer id, String username, String password, Integer age, String sex, String email) {
         this.id = id;
